@@ -1,0 +1,10 @@
+class Foreach
+ {
+   public static void main(String args[])
+   { 
+     int[] a = {10,26,55,38,59};
+     for(int i : a){
+    System.out.println(i);
+    }
+   }
+ }
